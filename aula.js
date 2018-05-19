@@ -18,3 +18,5 @@ function somaNumeros(primeiroNumero, segundoNumero) {
 }
 
 somaNumeros (2,3)
+
+console.log('Teste');
