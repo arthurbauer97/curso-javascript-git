@@ -20,5 +20,3 @@ for (let indice = 0; indice < listaJogos.length; indice ++){
 }
 console.log(`soma total = ${total}`)
 console.log(`valor ${listaJogos[0].nome} = ${listaJogos[0].valor}`)
-
-teste
